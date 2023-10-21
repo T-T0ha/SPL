@@ -496,7 +496,6 @@ int main()
   //     }
   //   }
   // printSudoku();
-  // load();
 
   // save();
   // solveSudoku(0, 0);
